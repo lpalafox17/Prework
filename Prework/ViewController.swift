@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var TotalLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        BillAmountText.becomeFirstResponder()
     }
 
     @IBAction func CalculatedTip(_ sender: Any) {
