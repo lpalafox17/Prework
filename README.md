@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+[updated]
 Here's a walkthrough of implemented user stories:
 
 <img src='https://im7.ezgif.com/tmp/ezgif-7-66aee7fad9e4.gif' width='' alt='Video Walkthrough' />
